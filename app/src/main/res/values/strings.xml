@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CloudNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_show_note">ShowNoteActivity</string>
+    <string name="title_activity_updata">UpdataActivity</string>
+    <string name="addnote_title_no_empty">标题不得为空</string>
+    <string name="addnote_content_no_empty">内容不得为空</string>
+    <string name="addnote_text_no_empty">不得为空</string>
+    <string name="addnote_note_success">添加笔记成功</string>
+    <string name="addnote_note_failed">添加失败</string>
+    <string name="cloudnote_login">云笔记登入</string>
+    <string name="login_success">登入成功</string>
+    <string name="register_success">注册成功</string>
+    <string name="pwd_longerthan_five">密码必须大于5位</string>
+    <string name="username_necessary">用户名是必填项</string>
+    <string name="username_biggerthan_four">用户名必须大于4位</string>
+    <string name="username_already_login">已登入</string>
+    <string name="cloudnote_note">笔记</string>
+    <string name="cloudnote_delete_success">成功删除笔记</string>
+    <string name="cloudnote_updata_success">更新成功</string>
+    <string name="cloudnote_updata_failed">更新失败</string>
+    <string name="cloudnote_changeUser">更换用户</string>
+
+
+
+</resources>
